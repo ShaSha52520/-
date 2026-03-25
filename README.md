@@ -1,8 +1,8 @@
 # 摄影测量经典算法实验
 ## 2.角点检测
 ### morarvec corner detection
-功能1：画布，可以画直线，矩形，圆形。画完自动保存
-功能2：运行使用morarvec corner detection检测功能一保存的图形的角点
+功能1：（鼠标绘制基本图形.py）画布，可以画直线，矩形，圆形。画完自动保存
+功能2：(Moravec Corner Deteccyion)运行使用morarvec corner detection检测功能一保存的图形的角点
 效果：weekness由于计算机图形的灰度显示，有些圆形和角会被检测出人概念上认为不存在的角点，但是放大显示器又有的角点
 改进算法：挖个坑
 
